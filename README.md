@@ -1,6 +1,6 @@
 # AWS Certified Practitioner (CP) Notes
 
-Welcome to the repository for my AWS Certified Practitioner (CP) exam notes! This repository is designed to share my notes on various AWS topics to help others prepare for the AWS Certified Practitioner exam.
+<h2 style="color: orange">Welcome to the repository for my AWS Certified Practitioner (CP) exam notes! This repository is designed to share my notes on various AWS topics to help others prepare for the AWS Certified Practitioner exam.<h2>
 
 ## Table of Contents
 
