@@ -4,12 +4,12 @@ Welcome to the repository for my AWS Certified Practitioner (CP) exam notes! �
 
 ## 📚 Table of Contents
 
-- [Cloud Computing](./cloud_computing.md)
-- [Security and Compliance](./security_and_compliance.md)
-- [Technology - Part One](./technology_part_one.md)
-- [Technology - Part Two](./technology_part_two.md)
-- [Technology - Part Three](./technology_part_three.md)
-- [Billing and Pricing](./billing_and_pricing.md)
+- [Cloud Computing](./notion_notes/cloud_computing.md)
+- [Security and Compliance](./notion_notes/security_and_compliance.md)
+- [Technology - Part One](./notion_notes/technology_part_one.md)
+- [Technology - Part Two](./notion_notes/technology_part_two.md)
+- [Technology - Part Three](./notion_notes/technology_part_three.md)
+- [Billing and Pricing](./notion_notes/billing_and_pricing.md)
 
 ## 🤝 Contributing
 
