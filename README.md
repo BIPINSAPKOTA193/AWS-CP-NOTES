@@ -27,7 +27,7 @@ This repository is licensed under the Apache License 2.0. See the [LICENSE](./LI
 
 ## 📬 Contact
 
-If you have any questions or need further information, please feel free to reach out via email at [bipinsapkota192@example.com](mailto:your-email@example.com).
+If you have any questions or need further information, please feel free to reach out via email at [bipinsapkota192@gmail.com](mailto:your-email@example.com).
 
 **Happy studying and good luck with your AWS Certified Practitioner exam!** 🎓
 
